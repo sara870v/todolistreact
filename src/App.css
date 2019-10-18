@@ -20,3 +20,63 @@
 .App-link {
   color: #09d3ac;
 }
+
+.parent {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 50px;
+}
+
+article {
+  width: 500px;
+  height: 200px;
+  grid-gap: 10px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  box-shadow: 14px 10px 10px 10px rgba(0, 0, 0, 0.08);
+}
+
+.knap {
+  background-color: lightgray;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+.overline {
+  margin-top: 50px;
+}
+
+.foot {
+  bottom: 0;
+  background-color: rgba(224, 224, 224, 0.685);
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.formof {
+  height: 200px;
+  background-color: rgba(224, 224, 224, 0.685);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0 10px 0;
+}
+
+.formof input {
+  margin-right: 20px;
+}
+
+input[type="submit" i] {
+  background-color: green;
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  color: white;
+}
+input[type="submit" i]:hover {
+  background-color: rgb(3, 77, 36);
+}
