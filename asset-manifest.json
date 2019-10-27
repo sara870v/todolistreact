@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sara870v/todolistreact/static/css/main.4a08ef75.chunk.css",
+    "main.js": "/sara870v/todolistreact/static/js/main.238f0998.chunk.js",
+    "main.js.map": "/sara870v/todolistreact/static/js/main.238f0998.chunk.js.map",
+    "runtime-main.js": "/sara870v/todolistreact/static/js/runtime-main.5d144a65.js",
+    "runtime-main.js.map": "/sara870v/todolistreact/static/js/runtime-main.5d144a65.js.map",
+    "static/js/2.bdc2716b.chunk.js": "/sara870v/todolistreact/static/js/2.bdc2716b.chunk.js",
+    "static/js/2.bdc2716b.chunk.js.map": "/sara870v/todolistreact/static/js/2.bdc2716b.chunk.js.map",
+    "index.html": "/sara870v/todolistreact/index.html",
+    "precache-manifest.8e3475e3200444f1c73b94e35e00d287.js": "/sara870v/todolistreact/precache-manifest.8e3475e3200444f1c73b94e35e00d287.js",
+    "service-worker.js": "/sara870v/todolistreact/service-worker.js",
+    "static/css/main.4a08ef75.chunk.css.map": "/sara870v/todolistreact/static/css/main.4a08ef75.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d144a65.js",
+    "static/js/2.bdc2716b.chunk.js",
+    "static/css/main.4a08ef75.chunk.css",
+    "static/js/main.238f0998.chunk.js"
+  ]
+}
